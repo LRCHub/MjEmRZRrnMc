@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Be the light",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-14T15:26:21.527376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Be the light",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Be_the_light_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Be the light",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Be_the_light_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be The Light",
+      "artist": "Jesus Co. & WorshipMob",
+      "has_synced": false,
+      "path": "select/03_Be_The_Light_Jesus_Co._&_WorshipMob.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Be The Light",
+      "artist": "Colton Dixon",
+      "has_synced": true,
+      "path": "select/04_I'll_Be_The_Light_Colton_Dixon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Be the light",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Be_the_light_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Be the Light",
+      "artist": "BLOCK B",
+      "has_synced": true,
+      "path": "select/06_Be_the_Light_BLOCK_B.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Be The Light (빛이 되어줘)",
+      "artist": "Block B",
+      "has_synced": true,
+      "path": "select/07_Be_The_Light_(빛이_되어줘)_Block_B.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Be The Light - YVES&ADAMS Winter Remix",
+      "artist": "BLOCK B",
+      "has_synced": false,
+      "path": "select/08_Be_The_Light_-_YVES&ADAMS_Winter_Remix_BLOCK_B.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Be The Light -YVES & ADAMS Winter Remix-",
+      "artist": "Block B",
+      "has_synced": false,
+      "path": "select/09_Be_The_Light_-YVES_&_ADAMS_Winter_Remix-_Block_B.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Be the Light (Japanese Version)",
+      "artist": "BLOCK B",
+      "has_synced": true,
+      "path": "select/10_Be_the_Light_(Japanese_Version)_BLOCK_B.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Learning to Be the Light",
+      "artist": "NewWorldSon",
+      "has_synced": true,
+      "path": "select/11_Learning_to_Be_the_Light_NewWorldSon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ONE OK ROCK - Be the light",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/12_ONE_OK_ROCK_-_Be_the_light_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Be the light",
+      "artist": "MADKID",
+      "has_synced": true,
+      "path": "select/13_Be_the_light_MADKID.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shout (Our Love Will Be the Light) (featuring Nina og Mads)",
+      "artist": "Julie",
+      "has_synced": true,
+      "path": "select/14_Shout_(Our_Love_Will_Be_the_Light)_(featuring_Nina_og_Mads)_Julie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shout (Our Love Will Be the Light)",
+      "artist": "Julie",
+      "has_synced": false,
+      "path": "select/15_Shout_(Our_Love_Will_Be_the_Light)_Julie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be the light",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Be_the_light_ONE_OK_ROCK.txt"
+    }
+  ]
+}
